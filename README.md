@@ -28,3 +28,11 @@ pip install nltk
 ```bash
 python sample.py 'a manhã está bonita'
 ```
+
+saída do comando:
+```
+a  =  Artigo def. ou indef.
+manhã  =  Substantivo
+está  =  Verbo
+bonita  =  Adjetivo
+```

@@ -45,4 +45,4 @@ arr2 = [
 
 #Apresentação dos resultados
 for n in array:
-    print(n[0], ' - ', arr2[arr1.index(n[1])])
+    print(n[0], ' = ', arr2[arr1.index(n[1])])
